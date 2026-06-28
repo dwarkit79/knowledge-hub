@@ -16,7 +16,6 @@ a.file-link:hover { color: #0056b3; text-decoration: underline; }
 .card:hover { transform: translateY(-4px); box-shadow: 0 8px 20px rgba(0,0,0,0.12); }
 .card h3 { margin: 0 0 12px 0; color: #0056b3; font-size: 1.1em; }
 .card p { margin: 0; color: #666; font-size: 0.9em; line-height: 1.5; }
-.card-badge { display: inline-block; background: #e3f2fd; color: #0056b3; padding: 4px 10px; border-radius: 15px; font-size: 0.75em; margin-bottom: 8px; }
 footer { margin-top: 50px; text-align: center; color: #888; font-size: 0.8em; border-top: 1px solid #eee; padding-top: 25px; }
-.taglist { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px; }
-.tag { background: #f0f0f0; padding: 5px 12px; border-radius: 15px; font-size: 0.8em; color: #555; }
+.disclaimer-box { background: #fff3cd; border: 1px solid #ffeaa7; border-radius: 8px; padding: 15px 20px; margin-bottom: 30px; }
+.disclaimer-box p { margin: 0; color: #856404; font-size: 0.9em; }
